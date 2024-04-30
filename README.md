@@ -9,7 +9,7 @@ This main topics of this course were:
 
 Unfortunetly I am only able to upload the first case study for privacy reasons.
 
-## Case study 1:
+## Case study 1
 
 During this case study, we were asked to find a dataset, in our case we selected a dataset based on car sharing data, then we transformed it so we would obtain a demand for 5 sectors we created 
 and for the 7 days of the week, then we created a model in pyomo in order to optimize the prices depending on the demand. For it we created a set of constraints 
