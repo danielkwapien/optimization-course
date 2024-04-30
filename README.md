@@ -17,4 +17,4 @@ based on meeting a certain demand and achiving a minimun facturation.
 
 Also, in order to add binary constraints, we added the constraint that each car should pass through maintence with a certain frequency every week.
 
-I really encourage you to take a look at the report since it is really well explained.
+I really encourage you to take a look at `code.ipynb` since it is really well explained.
