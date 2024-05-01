@@ -1,5 +1,7 @@
 # Optimization and Analytics Coursework
 
+**Final grade: 8.4**
+
 This main topics of this course were:
 * Introduction to the modeling process in decision-making problems. This will include an overview of the different types of optimization and simulation models, as well as the steps involved in the modeling process.
 * Linear models: modeling, applications, and the simplex method. This will cover how to formulate linear programming problems, how to solve them using the simplex method, and how to interpret the results.
